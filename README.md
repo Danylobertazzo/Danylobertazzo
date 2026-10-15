@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Danylo Samuel
 
-**Desenvolvedor | Especialista em Automação & IA | Engenharia de Software (4º semestre)**
+**Desenvolvedor | Automação & IA | Engenharia de Software (4º semestre)**
 
 ---
 
